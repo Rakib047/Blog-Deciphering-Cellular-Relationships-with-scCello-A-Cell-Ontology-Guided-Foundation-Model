@@ -1,17 +1,17 @@
 # **Deciphering Cellular Relationships with scCello: A Cell Ontology-Guided Foundation Model**
 
 ## **Authors**  
-- Md Faihaj Alam Topu (1905032)
-- Abdullah Nayem Wasi Emran (1905034)  
-- Rakib Abdullah (1905047)
+- Md Faihaj Alam Topu 
+- Abdullah Nayem Wasi Emran   
+- Rakib Abdullah 
 
 ---
 
 ## **1. Introduction**
 
-Transcriptome Foundation Models (TFMs), as a new category of deep networks, apply self-supervised learning strategies to make sense out of abundant scRNA-seq datasets. Such models seek to understand the vast “vocabulary” of gene expression to facilitate the knowledge of various cell functions and underlying factors of diseases. Like natural language models, TFMs regard genes as “tokens” and cells as “sentences,” thereby making it possible to identify biologically meaningful phrases. For example, by analyzing the "sentence structure" of gene expression, TFMs can identify key regulatory genes similar to identifying critical words in a paragraph.
+The study "Cell Ontology-Guided Transcriptome Foundation Model (scCello)" introduces a novel approach to integrating cell ontologies into Transcriptome Foundation Models (TFMs).Transcriptome Foundation Models (TFMs), as a new category of deep networks, apply self-supervised learning strategies to make sense out of abundant scRNA-seq datasets. Such models seek to understand the vast “vocabulary” of gene expression to facilitate the knowledge of various cell functions and underlying factors of diseases. Like natural language models, TFMs regard genes as “tokens” and cells as “sentences,” thereby making it possible to identify biologically meaningful phrases. For example, by analyzing the "sentence structure" of gene expression, TFMs can identify key regulatory genes similar to identifying critical words in a paragraph.
 
-However, a key limitation of current TFMs is the absence of **cell ontology integration**. Cell ontology serves as a structured representation of relationships between different cell types, akin to a family tree, where each branch represents a lineage or functional similarity. By incorporating this framework, TFMs can go beyond analyzing cells as isolated entities and instead understand their **context and lineage**, making predictions more biologically meaningful and relevant.
+However, as highlighted in this paper, a key limitation of current TFMs is the absence of **cell ontology integration**. Cell ontology serves as a structured representation of relationships between different cell types, akin to a family tree, where each branch represents a lineage or functional similarity. By incorporating this framework, TFMs can go beyond analyzing cells as isolated entities and instead understand their **context and lineage**, making predictions more biologically meaningful and relevant.
 
 A better understanding of these interactions impacts fields such as disease modeling, targeted therapy, and drug discovery. Incorporating cell ontology into TFMs could enhance their predictive power, enable the discovery of new cell types, and identify disease- or drug-associated genes. This development positions **scCello** as a promising innovation in computational biology.
 
