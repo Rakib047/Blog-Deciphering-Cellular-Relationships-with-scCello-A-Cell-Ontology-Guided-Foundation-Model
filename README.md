@@ -1,6 +1,8 @@
 # Blog Review: Deciphering Cellular Relationships with scCello
 
-This is a review blog for the paper [**Deciphering Cellular Relationships with scCello**](https://openreview.net/forum?id=aeYNVtTo7o) published in 2025.
+This is a review blog for the paper [**Deciphering Cellular Relationships with scCello**](https://openreview.net/forum?id=aeYNVtTo7o) published in 2024.
+
+
 
 ---
 
