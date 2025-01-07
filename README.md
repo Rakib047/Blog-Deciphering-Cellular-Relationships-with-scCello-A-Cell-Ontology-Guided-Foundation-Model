@@ -16,6 +16,7 @@ Md Faihaj Alam Topu, Abdullah Nayem Wasi Emran, Rakib Abdullah
 
 ## Links and Resources:
 - **Paper**: [Deciphering Cellular Relationships with scCello](https://openreview.net/forum?id=aeYNVtTo7o)
+- - [![Read the Blog](https://img.shields.io/badge/-Read%20the%20Blog-blue?style=flat-square)](https://github.com/Rakib047/Blog-Deciphering-Cellular-Relationships-with-scCello-A-Cell-Ontology-Guided-Foundation-Model/blob/main/Deciphering%20Cellular%20Relationships%20with%20scCello_A%20Cell%20Ontology-Guided%20Foundation%20Model.md)
 
 ## Blog Writers GitHub
 <p>
