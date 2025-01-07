@@ -18,7 +18,16 @@ Md Faihaj Alam Topu, Abdullah Nayem Wasi Emran, Rakib Abdullah
 - **Paper**: [Deciphering Cellular Relationships with scCello](https://openreview.net/forum?id=aeYNVtTo7o)
 
 ## Blog Writers GitHub
-- [![GitHub](https://img.shields.io/badge/-Rakib%20Abdullah-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakib047)
-- [![GitHub](https://img.shields.io/badge/-Wasi-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Nayem9274)
-- [![GitHub](https://img.shields.io/badge/-Topu-black?style=flat-square&logo=github&logoColor=white)](#)
+<p>
+  <a href="https://github.com/Rakib047">
+    <img src="https://img.shields.io/badge/-Rakib%20Abdullah-black?style=flat-square&logo=github&logoColor=white" alt="Rakib Abdullah GitHub">
+  </a>
+  <a href="https://github.com/Nayem9274">
+    <img src="https://img.shields.io/badge/-Wasi-black?style=flat-square&logo=github&logoColor=white" alt="Wasi GitHub">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Topu-black?style=flat-square&logo=github&logoColor=white" alt="Topu GitHub">
+  </a>
+</p>
+
 
