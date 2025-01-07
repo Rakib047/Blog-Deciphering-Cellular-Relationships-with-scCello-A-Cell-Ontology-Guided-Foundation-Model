@@ -71,7 +71,7 @@ scCello employs three distinct levels of learning objectives to ensure it captur
 
 
 ### **Explanation of the scCello Framework**
-![scCello Framework](https://i.postimg.cc/wxPPDyxv/Screenshot-2025-01-02-115942.png)
+![scCello Framework](image.JPG)
 
 **(a) Cell Ontology Graph**:
    - This diagram represents the hierarchical relationships between cell types (e.g., "native cell" → "neuron").
