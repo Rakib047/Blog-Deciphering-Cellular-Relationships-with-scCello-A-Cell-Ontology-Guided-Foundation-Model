@@ -32,7 +32,7 @@ Md Faihaj Alam Topu, Abdullah Nayem Wasi Emran, Rakib Abdullah
   <a href="https://github.com/Nayem9274">
     <img src="https://img.shields.io/badge/-Wasi-black?style=flat-square&logo=github&logoColor=white" alt="Wasi GitHub">
   </a>
-  <a href="#">
+  <a href="https://github.com/FaIhAjAlAmToPu">
     <img src="https://img.shields.io/badge/-Topu-black?style=flat-square&logo=github&logoColor=white" alt="Topu GitHub">
   </a>
 </p>
